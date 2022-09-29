@@ -1,0 +1,14 @@
+{
+  "name": "sip-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "jssip": "3.8.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-softphone": "1.7.0"
+  }
+}
